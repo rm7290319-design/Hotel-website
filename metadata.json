@@ -1,0 +1,6 @@
+{
+  "name": "MTG Grand Hotel & Suites",
+  "description": "MTG Grand Hotel — boutique rooms and suites designed around the view outside your window. Book your stay today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
